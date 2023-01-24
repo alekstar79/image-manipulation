@@ -1,5 +1,4 @@
 # IDE / Editor
 .idea
 
-# Package manager
-.yarn
+node_modules
